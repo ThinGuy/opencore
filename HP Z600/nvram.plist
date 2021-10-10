@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add</key>
+	<dict>
+		<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+		<dict>
+			<key>LocationServicesEnabled</key>
+			<data>
+			AQ==
+			</data>
+			<key>SystemAudioVolume</key>
+			<data>
+			Hw==
+			</data>
+			<key>SystemAudioVolumeDB</key>
+			<data>
+			AA==
+			</data>
+			<key>bluetoothActiveControllerInfo</key>
+			<data>
+			AQASCgAAAAAgWgAb3AZ+0w==
+			</data>
+			<key>boot-args</key>
+			<string>-v InjectAMD</string>
+			<key>csr-active-config</key>
+			<data>
+			/wcAAA==
+			</data>
+			<key>fmm-computer-name</key>
+			<data>
+			Q0ItTWFjUHJv
+			</data>
+			<key>prev-lang:kbd</key>
+			<data>
+			ZW4tVVM6MA==
+			</data>
+			<key>run-efi-updater</key>
+			<data>
+			Tm8A
+			</data>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
